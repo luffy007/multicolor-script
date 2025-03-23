@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Gordito Guider
 // @namespace    http://tampermonkey.net/
-// @version      2025-03-11
+// @version      2025-03-124
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.gamezer.com/en/game
