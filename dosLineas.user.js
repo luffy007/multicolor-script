@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Gordito Guider dos lineas
+// @name         Dos lineas
 // @namespace    http://tampermonkey.net/
-// @version      2025-03-14
+// @version      2025-04-08
 // @description  try to take over the world!
-// @author       You
+// @author       Gordito Guider
 // @match        https://www.gamezer.com/en/game
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gamezer.com
 // @grant        none
