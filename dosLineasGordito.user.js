@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Lineas Blandas Gordito
+// @name         Lineas Blancas Gordito
 // @namespace    http://tampermonkey.net/
 // @version      2026-02-09
 // @description  try to take over the world!
