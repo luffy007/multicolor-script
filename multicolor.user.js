@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Multicolor
 // @namespace    http://tampermonkey.net/
-// @version      2025-04-08
+// @version      2026-02-09
 // @description  try to take over the world!
 // @author       Gordito Guider
 // @match        https://www.gamezer.com/en/game
