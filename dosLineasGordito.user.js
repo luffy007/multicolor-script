@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lineas Blandas Gordito
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-12
+// @version      2026-02-09
 // @description  try to take over the world!
 // @author       Gordito Guider
 // @match        https://www.gamezer.com/en/game
